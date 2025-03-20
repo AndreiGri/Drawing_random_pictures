@@ -2,7 +2,7 @@
 #include <cstdlib>
 #include <ctime>
 #include <fstream>
-#include <vector>
+
 using namespace std;
 string name = "pic.txt";                                          // Записываем имя файла с расширением .txt в стринговую переменную
 int main()
